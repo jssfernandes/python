@@ -138,5 +138,5 @@ class Biblioteca(LoggerMixin):
 
 Por fim, eu fiz um modelo UML para facilitar a visualização da estrutura geral da Biblioteca que criamos e ver que, de fato, conseguimos transformar uma estrutura tangível em código com muito mais facilidade quando levamos isso para a Orientação a Objetos.
 
-![alt text](image.png)
-
+![alt text](./diagrama_modelo_UML.svg)
+<img src="./diagrama_modelo_UML.svg">
